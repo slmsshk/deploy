@@ -1,0 +1,6 @@
+torch>=2.0.0
+transformers
+uvicorn
+fastapi
+tensorflow>=2.0.0
+tf-keras
